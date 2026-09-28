@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm n4s3r 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9E5B&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Offensive+%26+Defensive+Security;AI+%26+Quantum+Curious;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9E5B&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;Offensive+%26+Defensive+Security;AI+%26+Quantum+Curious;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
