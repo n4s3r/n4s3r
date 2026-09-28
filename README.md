@@ -300,9 +300,13 @@
 ---
 
 ## 🟢 Credly Badges
-<img src="https://credly-readme-stats.onrender.com/api/stats?username=n4s3rSEC&theme=neon&custom_title=n4s3rSEC%stats&title_color=00ff00&text_color=00ff00&bg_color=000000" alt="Credly Stats" />
+<div align="center">
+
+<img src="https://credly-readme-stats.onrender.com/api/stats?username=n4s3rSEC&theme=neon&custom_title=n4s3rSEC%20stats&title_color=00ff00&text_color=00ff00&bg_color=000000" alt="Credly Stats" />
 
 ![Credly Badges](https://credly-readme-stats.onrender.com/api/grid?username=n4s3rSEC&custom_title=n4s3rSEC%20badges&theme=neon&title_color=00ff00&text_color=00ff00&bg_color=000000)
+
+</div>
 
 ---
 
