@@ -14,11 +14,11 @@
 
 ## 🧠 About Me
 
-- 🔐 Passionate about **cybersecurity**, **quantum technology**, and **AI**
-- 🎓 Currently studying **Cybersecurity at UNIR**
-- 🚀 Always exploring new technologies and challenges
-- 🎯 Goal: become a professional capable of protecting systems in the post-quantum era
-- 🌱 Believer in continuous learning, ethical hacking, and open-source
+- 🔐 Cybersecurity professional in the making — with an offensive mindset
+- 🎓 **UNIR Cybersecurity graduate**, now focused on real-world impact
+- 🚀 Not waiting for the future of tech — building it, testing it, securing it
+- 🎯 Preparing for the **post-quantum era** before it arrives
+- 🌱 Ethical hacking, continuous learning, and open-source at my core
 
 ---
 
